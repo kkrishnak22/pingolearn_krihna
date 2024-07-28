@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43217707513",
+    "project_id": "pflutter-3b891",
+    "storage_bucket": "pflutter-3b891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43217707513:android:5b107f5bacc0b8cc639d28",
+        "android_client_info": {
+          "package_name": "com.example.pflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPnkn5ThJRHkDTkmbX6FBqm-B0dh2kII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
